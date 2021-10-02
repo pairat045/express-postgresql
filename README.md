@@ -1,3 +1,4 @@
 # express-postgresql
 express connect to postgresql
-example
+author: Pairat Chaichanadee
+email: pairat045@hotmail.com
